@@ -1,0 +1,29 @@
+{
+    "cpu": {
+        "1": {
+            "name": "",
+            "cores": 0,
+            "threads": 0,
+            "virtualization": false
+        }
+    },
+    "gpu": {
+        "1": {}
+    },
+    "ram": {
+        "1": {}
+    },
+    "storage": {
+        "1": {
+            "name": "",
+            "capacity": 0,
+            "type": ""
+        }
+    },
+    "network": {
+        "1": {}
+    },
+    "motherboard": {
+        "1": {}
+    }
+}
