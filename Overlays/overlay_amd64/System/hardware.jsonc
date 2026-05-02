@@ -1,3 +1,7 @@
+/*
+In each component, the numbers are the component number.
+For example, if you have 2 CPUs, the first is "1" and the second is "2". The same applies to the other components.
+*/
 {
     "cpu": {
         "1": {

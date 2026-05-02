@@ -1,0 +1,61 @@
+/*Only for Raspberry Pi 5, not forRaspberry Pi Compute Module 5*/
+{
+    "cpu": {
+        "1": {
+            "pretty_name": "",
+            "manufacturer": "",
+            "architecture": "",
+            "cores": 0,
+            "threads": 0,
+            "virtualization": true,
+            "cache": {
+                /* Cache sizes in MiB */
+                "l1": "",
+                "l2": 0.5,
+                "l3": 2
+            }
+        }
+    },
+    "gpu": {
+        "1": {
+            "pretty_name": "",
+            "manufacturer": "",
+            "model": "",
+            "vram": 0,
+            "drivers": ""
+        }
+    },
+    "ram": {
+        "1": {
+            "pretty_name": "",
+            "capacity": 0,
+            "type": "",
+            "speed": 0,
+            "manufacturer": ""
+        }
+    },
+    "storage": {
+        "1": {
+            "pretty_name": "",
+            "manufacturer": "",
+            "capacity": 0,
+            "type": ""
+        }
+    },
+    "network": {
+        "1": {
+            "pretty_name": "",
+            "manufacturer": "",
+            "type": "",
+            "speed": 0
+        }
+    },
+    "motherboard": {
+        "1": {
+            "pretty_name": "",
+            "manufacturer": "",
+            "model": "",
+            "chipset": ""
+        }
+    }
+}
