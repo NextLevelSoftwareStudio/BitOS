@@ -4,7 +4,7 @@
         "1": {
             "pretty_name": "",
             "manufacturer": "",
-            "architecture": "",
+            "architecture": "arm64",
             "cores": 0,
             "threads": 0,
             "virtualization": true,
@@ -13,23 +13,26 @@
                 "l1": "",
                 "l2": 0.5,
                 "l3": 2
-            }
+            },
+            /* Clock speed in GHz */
+            "clock_speed": 2.4
         }
     },
     "gpu": {
         "1": {
-            "pretty_name": "",
+            "pretty_name": "VideoCore VII",
             "manufacturer": "",
             "model": "",
             "vram": 0,
-            "drivers": ""
+            /* Clock speed in GHz */
+            "clock_speed": 0
         }
     },
     "ram": {
         "1": {
             "pretty_name": "",
             "capacity": 0,
-            "type": "",
+            "type": "SDRAM",
             "speed": 0,
             "manufacturer": ""
         }
@@ -52,10 +55,10 @@
     },
     "motherboard": {
         "1": {
-            "pretty_name": "",
-            "manufacturer": "",
-            "model": "",
-            "chipset": ""
+            "pretty_name": "Note: Raspberry Pi 5 is the board itself",
+            "manufacturer": "Note: Raspberry Pi 5 is the board itself",
+            "model": "Note: Raspberry Pi 5 is the board itself",
+            "chipset": "Note: Raspberry Pi 5 is the board itself"
         }
     }
 }
