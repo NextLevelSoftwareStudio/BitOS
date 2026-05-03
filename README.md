@@ -67,7 +67,7 @@ iwctl
 O Bit-OS automatiza o particionamento, a extração do Stage3, a compilação do Kernel e a configuração final. Corra o comando:
 
 ```bash
-wget https://raw.githubusercontent.com/NextLevelSoftwareStudio/Bit-OS/refs/heads/main/installer.sh
+wget
 chmod +x installer.sh
 ./installer.sh
 ```
