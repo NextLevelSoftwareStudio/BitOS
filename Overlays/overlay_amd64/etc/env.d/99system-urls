@@ -1,2 +1,3 @@
-sys-repo="https://github.com/NextLevelSoftwareStudio/Bit-OS"
-sys-overlay=""
+sys-repo-repo="https://github.com/NextLevelSoftwareStudio/Bit-OS"
+sys-repo-overlay="https://github.com/NextLevelSoftwareStudio/Bit-OS/tree/main/Overlays/overlay_amd64"
+sys-repo-info="https://github.com/NextLevelSoftwareStudio/Bit-OS/blob/main/info.json"
