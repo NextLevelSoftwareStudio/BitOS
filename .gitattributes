@@ -1,1 +1,12 @@
-root_overlay/etc/portage/package.use/app-arch.rar text
+root_overlay/overlay_amd64/etc/portage/package.use/app-arch.rar text eol=lf
+root_overlay/Specific Hardware Overlays/Raspberry Pi 5/etc/portage/package.use/app-arch.rar text eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.jsonc text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.link eol=lf
+.gitattributes export-ignore
+.gitignore export-ignore
+*.csv text eol=lf
